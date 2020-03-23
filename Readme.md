@@ -4,3 +4,5 @@ The topics I have covered are :
   <ol>
   <li>Numpy.</l1>
   </ol>
+
+<p>I will suggest using the website colab.google.research to view the ipnyb files as it is user friendly and has <strong> Dark MODE</strong></p>
