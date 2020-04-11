@@ -4,6 +4,8 @@ The topics I have covered are :
   <ol>
   <li>Numpy</li>
   <li>Pandas</li>
+  <li>Matplotlib </li>
+  <li> Seaborn</li>
   </ol>
 
 <p>I will suggest using the website colab.google.research to view the ipnyb files as it is user friendly and has <strong> Dark MODE</strong></p>
