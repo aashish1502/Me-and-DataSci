@@ -11,15 +11,24 @@ The topics I have covered are :
 </ul>
 
 <H3>Algorithms for Machine learning</h3>
-<ul>  
+<ul> .
 <li>Linear regression </li>
 <li>Logestic regression</li>
 <li>K Nearest Neighbours (KNN)  </li>
 <li>Decision Trees and Random Forests</li>
 <li>Support Vector Machines</li>
 <li>K Means Clustering</li>
-
 </ul>
 
+<h3>Techniques to make a machine learning model more efficient and accurate.</h3>
+<ul>
+<li>Principle component Analysis</li>
+</ul>
+
+
+<h3>Data analysis project</h3>
+<ul>
+<li>Recommender system,</li>
+</ul>
 
 <p>I will suggest using the website colab.google.research to view the ipnyb files as it is user friendly and has <strong> Dark MODE</strong></p>
